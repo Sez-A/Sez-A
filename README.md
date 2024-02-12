@@ -2,7 +2,7 @@
 
 ## Bio:
 
-Passionate backend developer at VMware with a focus on building robust and scalable solutions. Committed to continuous learning and pushing the boundaries of what's possible in the realm of software development.
+Passionate backend developer with a focus on building robust and scalable solutions. Committed to continuous learning and pushing the boundaries of what's possible in the realm of software development.
 
 ## Skills:
 
