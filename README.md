@@ -1,32 +1,41 @@
 # About Me:
 
-## Bio:
+## 👨‍💻 Bio:
 
-Passionate backend developer at VMware with a focus on building robust and scalable solutions. Committed to continuous learning and pushing the boundaries of what's possible in the realm of software development.
+**Software developer with a focus on building scalable, reliable and secure systems. Driven by curiosity, problem solving, and continuous improvement.**
 
-## Skills:
+## 🛠️ Skills:
 
-- Backend Development
-- Web Development
-- Distributed Systems
-- Microservices
-- Agile Development
+- **Backend Development**
+- **Distributed Systems**
+- **Microservices**
+- **Smart Contract Auditing**
 
-## Technologies:
+## 🔧 Technologies:
 
-Programming Languages: Java, SQL<br>Web Frameworks: Spring<br>Databases: MySQL, PostgreSQL, MongoDB<br>Version Control: Git, GitHub, GitLab<br>DevOps: Docker, Jenkins<br>Cloud Platforms: AWS
+### 🌐 Web2
+- **Programming Languages: Java, SQL**
+- **Web Frameworks: Spring**
+- **Databases: MySQL**
+- **Version Control: Git, GitHub, GitLab**
+- **DevOps: Docker, Jenkins**
+- **Cloud Platforms: AWS**
 
-## Interests:
+### ⛓️ Web3
+- **Programming Languages: Solidity**
+- **Blockchain: Ethereum**
+- **Development Tools: Foundry, Hardhat**
 
-- Java & Java ecosystem
-- Backend development
-- Problem solving
-- Cybersecurity
-- Web3 and Blockchain Technology
+## 🌱 Interests:
+
+- **Java & Java ecosystem**
+- **Backend development**
+- **Problem solving**
+- **Web3 and Blockchain Technology**
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sezgin-shabanov-078b38220/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-shabanov-078b38220/)
 
 # 💻 Tech Stack:
 
