@@ -1,28 +1,33 @@
 # About Me:
 
-## Bio:
+## 👨‍💻 Bio:
 
-Passionate backend developer at VMware with a focus on building robust and scalable solutions. Committed to continuous learning and pushing the boundaries of what's possible in the realm of software development.
+**Passionate backend developer with a focus on building robust and scalable solutions. Committed to continuous learning and pushing the boundaries of what's possible in the realm of software development.**
 
-## Skills:
+## 🛠️ Skills:
 
-- Backend Development
-- Web Development
-- Distributed Systems
-- Microservices
-- Agile Development
+- **Backend Development**
+- **Web Development**
+- **Distributed Systems**
+- **Microservices**
+- **Agile Development**
 
-## Technologies:
+## 🔧 Technologies:
 
-Programming Languages: Java, SQL<br>Web Frameworks: Spring<br>Databases: MySQL, PostgreSQL, MongoDB<br>Version Control: Git, GitHub, GitLab<br>DevOps: Docker, Jenkins<br>Cloud Platforms: AWS
+- **Programming Languages: Java, SQL**
+- **Web Frameworks: Spring**
+- **Databases: MySQL**
+- **Version Control: Git, GitHub, GitLab**
+- **DevOps: Docker, Jenkins**
+- **Cloud Platforms: AWS**
 
-## Interests:
+## 🌱 Interests:
 
-- Java & Java ecosystem
-- Backend development
-- Problem solving
-- Cybersecurity
-- Web3 and Blockchain Technology
+- **Java & Java ecosystem**
+- **Backend development**
+- **Problem solving**
+- **Cybersecurity**
+- **Web3 and Blockchain Technology**
 
 ## 🌐 Socials:
 
